@@ -3,5 +3,9 @@
 ## Author: Bonho
 ## Version: 1.0.1
 ## Dependencies:
+
+FriendsFrame.lua
+FriendsButton.lua
+
 FriendsButton.xml
 FriendsFrame.xml
