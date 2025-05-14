@@ -119,7 +119,7 @@ function BNToastFrame_Show(string, type)
     topLine:SetText(string);
     bottomLine:Show();
     bottomLine:SetText(oStr);
-    PlaySoundFile("Interface\\Addons\\FriendsFrame\\Sounds\\UI_BnetToast.ogg", "master")
+    PlaySoundFile("Interface\\Addons\\FriendsFrame-Turtle\\Sounds\\UI_BnetToast.ogg", "master")
   end
 end
 

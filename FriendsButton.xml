@@ -48,8 +48,8 @@ C:\Projects\WoW\Bin\Interface\FrameXML\UI.xsd">
         if event == "FRIENDLIST_UPDATE" then FriendsMicroButtonCount:SetText(GetFriendsOnline()); end
       </OnEvent> -->
     </Scripts>
-    <NormalTexture file="Interface\AddOns\FriendsFrame\Textures\UI-ChatIcon-BattleBro-Up"/>
-    <PushedTexture file="Interface\AddOns\FriendsFrame\Textures\UI-ChatIcon-BattleBro-Down"/>
-    <HighlightTexture file="Interface\AddOns\FriendsFrame\Textures\UI-ChatIcon-BattleBro-Hi" alphaMode="ADD"/>
+    <NormalTexture file="Interface\AddOns\FriendsFrame-Turtle\Textures\UI-ChatIcon-BattleBro-Up"/>
+    <PushedTexture file="Interface\AddOns\FriendsFrame-Turtle\Textures\UI-ChatIcon-BattleBro-Down"/>
+    <HighlightTexture file="Interface\AddOns\FriendsFrame-Turtle\Textures\UI-ChatIcon-BattleBro-Hi" alphaMode="ADD"/>
   </Button>
 </Ui>
